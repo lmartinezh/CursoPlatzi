@@ -1,0 +1,123 @@
+﻿a {
+    color:#fba937;
+}
+body {
+    background:#EFEFEF;
+    color:#7A7A7A;
+    font-family: 'Open Sans', sans-serif;
+    font-size:16px;
+    margin:0px;
+}
+
+header {
+    background:#434343;
+    margin:0;
+    padding:1em;
+}
+
+header h1 {
+    color:white;
+    font-size:1em;
+    font-weight:normal;
+    margin:1em 0 0 1em;
+    width:60%;
+}
+
+header #avatar {
+    border:2px solid peru;
+    margin: 1em 1em 0 0;
+}
+
+header #avatar figcaption {
+    background: #22BCEB;
+    float:right;
+    height:80px;
+    padding:0 2px;
+}
+
+header #avatar img {
+    width:80px;
+    float:left;
+}
+
+header #logo img {
+    width:80px;
+}
+
+header figure, header h1 {
+    display:inline-block;
+    vertical-align:top;
+}
+
+nav {
+    background:#b9b7b9;
+    font-size:.9em;
+}
+
+nav ul {
+    list-style:none;
+    margin:0px;
+    padding:0px;
+}
+
+nav ul li {
+    display:inline-block;
+    margin:0 1.2em 0 0;
+    vertical-align:auto;
+}
+
+nav ul li a {
+    color:white;
+    display:block;
+    padding:.5em 0;
+}
+
+nav #flechita_nav a {
+    background:#22BCEB;
+    padding:.5em .5em;
+    text-decoration:none;
+}
+
+nav #publicar_nav {
+    float:right;
+    margin-right:0px;
+}
+
+nav #publicar_nav a {
+    background:#DD4F24;
+    padding:.5em 1em;
+}
+
+#contenido {
+    border-bottom:3px solid blue;
+    margin:1em;
+}
+
+#contenido .item {
+    background:white;
+    border-bottom:3px #22bce0 solid;
+}
+
+#contenido .item p {
+    color:#7A7A7A;
+    font-size:.9em;
+}
+
+#contenido .item .datos_item .tag_item {
+    background:#22bce0;
+    border-radius:.5em;
+    color:white;
+    padding:.2em .5em;
+    text-decoration:none;
+}
+
+#contenido .item .imagen_item {
+    float:left;
+    margin:0 1em 0 0;
+}
+
+#contenido .item .imagen_item img{
+    width:96px;
+}
+
+
