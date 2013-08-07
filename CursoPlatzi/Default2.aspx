@@ -52,10 +52,10 @@
                     <a href="#">Categoria</a>
                     <span> Hace <strong>5 minutos</strong></span>
                 </p>
-                <p>
-                    <a href="#">UP</a>
+                <p class="votacion">
+                    <a class="up" href="#"></a>
                     3141
-                    <a href="#">DOWN</a>
+                    <a class="down" href="#"></a>
                 </p>
             </article>
         </section>
